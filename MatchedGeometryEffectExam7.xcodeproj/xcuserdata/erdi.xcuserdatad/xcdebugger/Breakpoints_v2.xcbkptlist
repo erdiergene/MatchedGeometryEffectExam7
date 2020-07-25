@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C1E1D6B8-3BF0-4F99-8C0E-06BD9F58A437"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9FFCB9F5-B7DC-45D4-ACEF-7518979843BD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MatchedGeometryEffectExam7/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "9FFCB9F5-B7DC-45D4-ACEF-7518979843BD - ab0b3df5d1323aca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MatchedGeometryEffectExam7.ContentView.body.getter : some"
+                  moduleName = "MatchedGeometryEffectExam7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erdi/Desktop/MatchedGeometryEffectExam7/MatchedGeometryEffectExam7/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "403">
+               </Location>
+               <Location
+                  uuid = "9FFCB9F5-B7DC-45D4-ACEF-7518979843BD - 2f6981c15f981002"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.matchedGeometryEffect&lt;A where A1: Swift.Hashable&gt;(id: A1, in: SwiftUI.Namespace.ID, properties: SwiftUI.MatchedGeometryProperties, anchor: SwiftUI.UnitPoint, isSource: Swift.Bool) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt;, Swift.Optional&lt;SwiftUI.VStack&lt;&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.onDisappear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0&gt;&gt;)&gt; in MatchedGeometryEffectExam7.ContentView.body.getter : some"
+                  moduleName = "MatchedGeometryEffectExam7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erdi/Desktop/MatchedGeometryEffectExam7/MatchedGeometryEffectExam7/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "629">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
